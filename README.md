@@ -29,3 +29,10 @@ This project performs sentiment analysis on Amazon product reviews using Natural
 - Majority of reviews are positive
 - Negative reviews mainly highlight product quality and delivery issues
 - Neutral reviews are minimal compared to positive/negative
+  
+## 📂 Project Structure
+amazon-reviews-sentiment-analysis
+├── analysis.ipynb
+├── Reviews.csv
+├── summary.pdf
+└── charts/
